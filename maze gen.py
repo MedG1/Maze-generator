@@ -120,6 +120,6 @@ class Maze:
         plt.show()
        # return frame
 
-m = Maze((50, 20))
+m = Maze((30, 70))
 m.generate((0, 0))
 m.display()
